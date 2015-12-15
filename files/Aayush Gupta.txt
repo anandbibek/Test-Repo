@@ -1,6 +1,6 @@
-Name : 
-Enrollment No. :
-Department :
-Year :
-Email : abc at gmail dot com
-Prior experience on Android : 
+Name : Aayush Gupta
+Enrollment No. : 15UME053
+Department : Mechanical Engineering
+Year : 2015
+Email : aayustark007 at gmail dot com
+Prior experience on Android : Followed some tutorials from youtube channel thenewboston and android developers(developer.android.com) to build some simple apps. 
