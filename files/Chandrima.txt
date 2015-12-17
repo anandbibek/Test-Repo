@@ -1,6 +1,6 @@
-Name : 
-Enrollment No. :
-Department :
-Year :
-Email : abc at gmail dot com
-Prior experience on Android : 
+Name : Chandrima Datta
+Enrollment No. :15UCS006
+Department :Computer Science & Engineering
+Year :2015
+Email : cdatta234 at gmail dot com
+Prior experience on Android : NIL
