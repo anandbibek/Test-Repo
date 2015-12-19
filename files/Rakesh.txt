@@ -1,6 +1,7 @@
-Name : 
-Enrollment No. :
-Department :
-Year :
-Email : abc at gmail dot com
-Prior experience on Android : 
+Name : Rakesh Das
+Enrollment No. :13UCS049
+Department :C.S.E
+Year :3rd
+Email : drakesh459 at gmail dot com
+Prior experience on Android : completed a simple training on core java and android
+ ,Followed some tutorials from youtube and android developers(developer.android.com) to make some simple apps. 
